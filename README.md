@@ -1,6 +1,6 @@
 # pandas-challenge
 
-This script goes through district-wide standardized test results and creates various summaries for analysis. The test results used are for Math and Reading.
+This script goes through district-wide standardized test results and creates various summaries for analysis. The test results used were for Math and Reading.
 
 ## Types of Summaries included
 - District Summary
